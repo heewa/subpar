@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dvdokkum/subpar.svg?branch=master)](https://travis-ci.org/dvdokkum/subpar)
+
 # subpar
 
 *home of subpar systems, inc.*
